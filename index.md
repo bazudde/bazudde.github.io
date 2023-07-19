@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Natural Language Processing (NLP)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ulta skincare reviews Sentiment analysis](https://github.com/bazudde/stutern_datascience/blob/main/Ultra%20skin%20care%20sentiment%20analysis.ipynb)
+<img src="word cloud.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
