@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Theresa Louise Bazudde # your name (or website title) here
+logo: "Theresa professional photo?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>Data Scientist with 2+ years of professional experience in data analytics.
+  <br> Top rated freelancer on Upwork.com with 100% job success.
+  <br>Current Masters student at MITx for statistics and data science.
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
